@@ -1,0 +1,64 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+    background-color: lightpink;
+}
+
+canvas
+{
+    box-shadow: 20px 20px 20px rgb(255, 185, 250);
+    border-radius: 10px;
+}
+
+#book
+{
+    width: 20%;
+    border-radius: 23px;
+    box-shadow: 3px;
+    background-color: rgb(245, 202, 224);
+}
+
+#choc
+{
+    width: 20%;
+    border-radius: 23px;
+    box-shadow: 3px;
+    background-color: rgb(245, 202, 224);
+}
+
+#sunglasses
+{
+    width: 20%;
+    border-radius: 23px;
+    box-shadow: 3px;
+    background-color: rgb(245, 202, 224);
+}
+
+#jbl
+{
+    width: 20%;
+    border-radius: 23px;
+    box-shadow: 3px;
+    background-color: rgb(245, 202, 224);
+}
+
+#pen
+{
+    width: 20%;
+    border-radius: 23px;
+    box-shadow: 3px;
+    background-color: rgb(245, 202, 224);
+}
